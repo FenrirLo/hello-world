@@ -1,0 +1,24 @@
+h1 {
+  color: purple;
+  text-align: center;
+}
+
+h2 {
+  color: green;
+  font-style: monospace;
+  text-align: justify;
+}
+
+p {
+  color: Purple;
+  font-family:monospace;
+}
+
+ul {
+  color: green;
+  text-decoration: underline;
+  font-size: 30px
+}
+em {
+  color: yellow;
+}
